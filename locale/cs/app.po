@@ -4590,3 +4590,5 @@ msgstr "{{user}} (<a href=\"{{user_admin_url}}\">admin</a>) podal tuto {{law_use
 msgid "{{user}} made this {{law_used_full}} request"
 msgstr "{{user}} vložil tuto {{law_used_full}} "
 
+msgid "You're in. <a href=\"#\" id=\"send-request\">Continue sending your request</a>"
+msgstr "Jste přihlášení, nyní můžete vznést dotaz."
